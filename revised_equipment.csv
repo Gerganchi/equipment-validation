@@ -1,0 +1,6 @@
+﻿Asset ID,Equipment,Repair cost (EUR),Status
+A-003,Motor,210,Approved
+A-001,Pump,160,Needs inspection
+A-004,Fan,120,New
+A-006,Cooling unit,95,Approved
+A-005,Compressor,350,Approved
